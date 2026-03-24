@@ -44,3 +44,45 @@ Orgullosas y poseedoras de una independencia feroz, las tribus del Fréljord son
 A pesar de los grandes esfuerzos de la Guardia de Hielo, aún perduran los mitos y las leyendas de los dioses antiguos, los yetis enigmáticos y los chamanes cambiapieles. Los invasores de la Garra Invernal abarcan más territorios con cada año que pasa, hostigando las fronteras de Demacia al sur y las de Noxus al este. Por su parte, algunas tribus y clanes desobedientes e independientes que buscan un futuro más pacífico han comenzado a aliarse con Ashe, la joven reina de los avarosanos.
 
 A pesar de ello, los presagios son desalentadores. Sin lugar a dudas, la guerra regresará al Fréljord y nadie podrá escapar.
+
+
+
+## EL VACÍO
+
+Comenzando a gritos su existencia junto al nacimiento del universo, el Vacío es una manifestación de la nada inasible que se encuentra más allá. Es una fuerza con un hambre insaciable, esperando a través de los eones hasta que sus amos, los misteriosos Vigilantes, marquen la hora final.
+
+Ser un mortal tocado por este poder significa sufrir un atisbo agonizante de eterna irrealidad, suficiente como para quebrar hasta la mente más fuerte. Los habitantes del Vacío son criaturas construidas, usualmente con una conciencia limitada, pero programadas con un propósito singular: desatar el olvido total por toda Runaterra.
+
+
+
+## ISLAS DE LA SOMBRA
+
+Esta tierra condenada alguna vez fue el hogar de una civilización noble e iluminada, conocida por sus aliados y emisarios como las Islas Bendecidas. Sin embargo, hace más de mil años, un cataclismo mágico sin precedentes destrozó la barrera entre los reinos material y espiritual, combinándolos en uno solo que condenó instantáneamente a todos los seres vivos.
+
+Ahora, una malévola Niebla Negra cubre permanentemente las islas, mientras que la tierra misma está contaminada por la hechicería oscura. Los mortales que se atreven a aventurarse a sus lúgubres costas son despojados lentamente de su fuerza vital, lo cual, a su vez, atrae a los insaciables e implacables espíritus de los muertos.
+
+Quienes mueren dentro de la Niebla están condenados a asediar este lugar de pesadilla por toda la eternidad. Peor aún, el poder de las Islas de la Sombra se fortalece con cada año que pasa y los espectros más poderosos pueden alejarse cada vez más de las islas y rondar por toda Runaterra.
+
+
+
+## IXTAL
+
+Conocida por su maestría en magia elemental, Ixtal fue una de las primeras naciones independientes en unirse al imperio shurimano. En realidad, la cultura ixtali es mucho más antigua: formó parte de la gran diáspora hacia occidente que dio origen a civilizaciones como los Buhru, la magnífica Helia y los ascetas de Targón. Incluso, es muy probable que haya tenido una participación clave en la creación de los primeros Ascendidos.
+
+Pero los magos de Ixtal sobrevivieron al Vacío y después a los Darkin, gracias a que se distanciaron de sus vecinos, interponiendo como escudo la naturaleza que los rodeaba. A pesar de que se perdió una gran parte, estaban comprometidos con la preservación de lo poco que quedaba.
+
+Ahora, tras miles de años de reclusión en las profundidades de la selva, la sofisticada ciudad de arcología, Ixaocan, permanece casi intacta frente a la influencia externa. Después de haber presenciado, desde la distancia, la destrucción de las Islas Bendecidas, así como las subsecuentes Guerras Rúnicas, los ixtali ven al resto de las facciones de Runaterra como advenedizas y farsantes, por lo que utilizan su poderosa magia para mantener a los intrusos a distancia.
+
+
+
+## JONIA
+
+Rodeada por mares traicioneros, Jonia se compone de una serie de provincias aliadas repartidas por un gran archipiélago conocido por muchos como las Tierras Originarias. La búsqueda del equilibrio entre todas las cosas es lo que ha moldeado a la cultura jonia, por lo que el límite entre los reinos de lo material y lo espiritual suele ser más permeable ahí, en especial en los bosques silvestres y en las montañas.
+
+Si bien los encantos de estas tierras pueden ser veleidosos, dada la naturaleza peligrosa y mágica de su fauna, la mayor parte de los jonios tuvo una vida próspera durante varios siglos. Los monasterios de los guerreros, las milicias provinciales e incluso Jonia misma habían bastado para protegerlos.
+
+Pero eso terminó hace doce años, cuando Noxus atacó las Tierras Originarias. Las aparentemente infinitas huestes del imperio arrasaron con Jonia y tuvieron que pasar muchos años para que cayeran derrotadas, a un costo muy alto.
+
+Ahora, Jonia existe en una paz inquieta. Las diferentes reacciones frente a la guerra dividieron la región. Algunos grupos, como los monjes Shojin o los Kinkou, buscan volver a la paz que conlleva el aislamiento y a las tradiciones pastoriles. Otras facciones más radicales, como la Hermandad Navori y la Orden de la Sombra, exigen la militarización de la magia de la tierra para crear una nación unificada que pueda vengarse de Noxus.
+
+El destino de Jonia pende de un delicado equilibrio que muy pocos están dispuestos a alterar, pero que todos pueden sentir cómo se mueve inquietamente bajo sus pies.
