@@ -86,3 +86,45 @@ Pero eso terminó hace doce años, cuando Noxus atacó las Tierras Originarias. 
 Ahora, Jonia existe en una paz inquieta. Las diferentes reacciones frente a la guerra dividieron la región. Algunos grupos, como los monjes Shojin o los Kinkou, buscan volver a la paz que conlleva el aislamiento y a las tradiciones pastoriles. Otras facciones más radicales, como la Hermandad Navori y la Orden de la Sombra, exigen la militarización de la magia de la tierra para crear una nación unificada que pueda vengarse de Noxus.
 
 El destino de Jonia pende de un delicado equilibrio que muy pocos están dispuestos a alterar, pero que todos pueden sentir cómo se mueve inquietamente bajo sus pies.
+
+
+
+## NOXUS
+
+Noxus es un imperio poderoso con una reputación aterradora. Para quienes viven más allá de sus fronteras, es brutal, expansionista y amenazante. Sin embargo, para aquellos que logran ver más allá de su exterior bélico, se encuentran con una sociedad inusualmente inclusiva que respeta y cultiva las fortalezas y los talentos de los suyos.
+
+Los Noxii fueron en el pasado feroces tribus barbáricas hasta que invadieron la antigua ciudad que ahora se encuentra en el corazón de su dominio. Amenazados por todos los flancos, pelearon encarnizadamente contra sus enemigos y expandieron sus fronteras año tras año. Esta lucha por la supervivencia moldeó la identidad de los noxianos modernos: gente profundamente orgullosa que valora la fuerza sobre todas las cosas, aunque esta puede manifestarse de diferentes maneras.
+
+Cualquiera puede ascender a una posición de poder y respeto en Noxus si presenta la aptitud necesaria, más allá de su estrato social, antecedentes o riqueza. Aquellos que son capaces de ejercer la magia son tenidos en alta estima y son buscados con ahínco, con la intención de perfeccionar y aprovechar sus talentos al máximo en beneficio del imperio.
+
+A pesar de este ideal meritocrático, las antiguas familias nobles aún ostentan un poder considerable y algunos temen que la mayor amenaza para Noxus no provenga de sus enemigos, sino desde dentro.
+
+
+
+## PILTÓVER
+
+Piltóver es una ciudad próspera y progresista cuyo poder e influencia van en ascenso. Es el centro cultural de Valoran, donde el arte, la producción artesanal, el comercio y la innovación van de la mano. Su poder no viene del poder militar, sino de los motores del comercio y las ideas avanzadas. Ubicada en los acantilados sobre el distrito de Zaun y con vista al océano, flotas de barcos pasan por sus titánicas compuertas con artículos de todas partes del mundo. La riqueza que esto genera ha dado lugar a un crecimiento de la ciudad sin prececedentes. Piltóver se ha reinventado como una ciudad donde se pueden amasar enormes fortunas y hacer realidad los sueños. Pujantes clanes de mercaderes pudieron desarrollarse en las actividades más increíbles: imponentes disparates artísticos, arcanas investigaciones sobre hextech y monumentos arquitectónicos enalteciendo su poder. Con una creciente cantidad de inventores en el emergente conocimiento de hextech, Piltóver se convirtió en un imán para los artesanos más habilidosos del mundo.
+
+
+
+## SHURIMA
+
+El imperio de Shurima fue alguna vez una civilización floreciente que abarcó un continente entero. Forjada, en una era ya olvidada, por los poderosos dioses guerreros de los Huéspedes Ascendidos, unificó a todos los pueblos discrepantes del sur e impuso una paz duradera entre ellos.
+
+Pocos se atrevían a rebelarse. Y quienes lo hicieron, como la condenada nación de Icathia, fueron aplastados sin piedad.
+
+Sin embargo, después de varios miles de años de crecimiento y prosperidad, la ascensión fallida del último emperador shurimano redujo la capital a ruinas y las historias de la antigua gloria del imperio se convirtieron en mitos. Ahora, la mayor parte de los habitantes nómadas de los desiertos de Shurima trata de sostener su endeble existencia valiéndose de la tierra despiadada. Algunos construyeron pequeños puestos de avanzada para defender los pocos oasis disponibles, mientras que otros hurgan en catacumbas desaparecidas hace mucho tiempo, en busca de las incontables riquezas que, seguramente, yacen enterradas ahí. También están aquellos que viven como mercenarios, quienes cobran por sus servicios antes de desaparecer en los páramos sin ley.
+
+Pese a ello, unos cuantos se atreven a soñar con el retorno de las viejas costumbres. De hecho, recientemente las tribus fueron alertadas por los susurros del corazón del desierto, los cuales afirman que el emperador Azir ha vuelto para guiarlos en una era nueva y maravillosa.
+
+
+
+## TARGÓN
+
+El Monte Targón es la cima más poderosa de Runaterra, una montaña imponente de roca calcinada por el sol en medio de una cordillera de cumbres de escala incomparable en el mundo. El Monte Targón, ubicado lejos de la civilización, es totalmente remoto y su cúspide casi imposible, excepto para el explorador más resuelto. Como todo lugar mitológico, el Monte Targón es faro de soñadores, locos y aventureros. Algunos de estos valientes intentan escalar la montaña inalcanzable, tal vez en busca de sabiduría o iluminación, o por perseguir la gloria o quizá motivados por un anhelo profundo de pisar su cumbre. El ascenso es prácticamente irrealizable, y aquellos pocos que de alguna manera logran sobrevivir para llegar a su cima, casi nunca hablan de lo que vieron. Algunos vuelven con una mirada poseída y vacía, otros cambiados al punto de ser irreconocibles, imbuidos por un Aspecto de poder inhumano y sobrenatural, con un destino que pocos mortales comprenderían.
+
+
+
+## ZAUN
+
+Zaun es un gran distrito suburbano ubicado en la profundidad de los cañones y valles que rodean Piltóver. La poca luz que llega allí abajo se filtra por los vapores que salen de las tuberías corroídas y se refleja a través de los vitrales de la arquitectura industrial. Zaun y Piltóver estuvieron alguna vez unidas; ahora son sociedades separadas, pero simbióticas. A pesar de existir sumida en una permanente luz crepuscular, Zaun progresa, su gente es enérgica y su cultura es rica. La riqueza de Piltóver le permitió a Zaun desarrollarse a la par; un espejo oscuro de la ciudad de arriba. Muchos de los artículos que ingresan a Piltóver encuentran la manera de entrar al mercado negro de Zaun, al igual que las peligrosas investigaciones de los inventores hextech, que se topan con demasiadas restricciones en la ciudad encumbrada, muchas veces son bien recibidas en Zaun. El ilimitado desarrollo de tecnologías volátiles e industrias imprudentes corrompieron y pervirtieron grandes áreas de Zaun. Cantidades de desperdicios tóxicos quedan estancados en las partes más bajas de la ciudad, pero aún allí la gente encuentra la manera de existir y prosperar.
