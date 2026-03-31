@@ -11,6 +11,10 @@
 * Quinn
 * Poppy
 * Sylas
+* Kayle
+* Morgana
+* Sona
+* Xin Zhao
 
 ## Noxus
 * Darius
@@ -23,8 +27,15 @@
 * Cassiopeia
 * Samira
 * Sion
+* Ambessa
+* Briar
+* Kled
+* Mel
+* Mordekaiser
+* Rell
+* Riven
 
-## freljord
+## El Fréljord
 * Ashe
 * Sejuani
 * Lissandra
@@ -35,8 +46,13 @@
 * Nunu & Willump
 * Olaf
 * Ornn
+* Aurora
+* Gnar
+* Gragas
+* Trundle
+* Volibear
 
-## Piltover
+## Piltóver
 * Caitlyn
 * Jayce
 * Ezreal
@@ -44,13 +60,10 @@
 * Camille
 * Seraphine
 * Orianna
-* Blitzcrank
-* Zeri
-* Corki
+* Vi
 
 ## Zaun
 * Jinx
-* Vi
 * Ekko
 * Viktor
 * Singed
@@ -59,8 +72,13 @@
 * Zac
 * Dr. Mundo
 * Renata Glasc
+* Blitzcrank
+* Janna
+* Urgot
+* Zeri
+* Ziggs
 
-## Ionia
+## Jonia
 * Yasuo
 * Yone
 * Ahri
@@ -71,6 +89,19 @@
 * Karma
 * Master Yi
 * Lee Sin
+* Hwei
+* Ivern
+* Jhin
+* Kennen
+* Kayn
+* Lillia
+* Rakan
+* Sett
+* Syndra
+* Varus
+* Wukong
+* Xayah
+* Yunara
 
 ## Shurima
 * Azir
@@ -80,21 +111,19 @@
 * Taliyah
 * Xerath
 * Rammus
-* Skarner
 * K´Sante
 * Naafiri
+* Akshan
+* Amumu
 
-## Targon
+## Targón
 * Leona
 * Diana
 * Phanteon
-* Aurelion Sol
 * Zoe
 * Taric
 * Soraka
 * Aphelios
-* Alune
-* Bard
 
 ## Islas de la Sombra
 * Tresh
@@ -108,7 +137,7 @@
 * Elise
 * Vex
 
-## Aguas Estancadas
+## Aguasturbias
 * Miss Fortune
 * Gankplank
 * Pyke
@@ -116,8 +145,6 @@
 * Twisted Fate
 * Graves
 * Nautilus
-* Fizz
-* Tahm Kench
 * Nilah
 
 ## El Vacio
@@ -130,4 +157,46 @@
 * Malzahar
 * Kog'Maw
 * Bel'Veth
-* Varus
+
+## Ciudad de Bandle
+* Corki
+* Lulu
+* Norra
+* Rumble
+* Teemo
+* Tristana
+* Veigar
+* Yuumi
+
+## Ixtal
+* Malphite
+* Milio
+* Neeko
+* Nidalee
+* Qiyana
+* Rengar
+* Skarner
+* Zyra
+
+## Runaterra
+* Aatrox
+* Alistar
+* Annie
+* Aurelion Sol
+* Bardo
+* Brand
+* Evelynn
+* Fiddlesticks
+* Fizz
+* Jax
+* Kindred
+* Lucian
+* Nami
+* Nocturne
+* Ryze
+* Senna
+* Shaco
+* Smolder
+* Tahm Kench
+* Zaahen
+* Zilean
